@@ -1,9 +1,9 @@
 - language:
   idiom: English
+  level: Professional
+- language:
+  idiom: German
   level: Native
 - language:
   idiom: French
-  level: Professional
-- language:
-  idiom: Spanish
-  level: Professional
+  level: Basic

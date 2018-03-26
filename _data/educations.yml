@@ -1,16 +1,16 @@
 - education:
-  degree: MSc in Computer Science
-  university: University of London
-  time: 2011 - 2012
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  degree: Dr.-Ing. in Computer Science (PhD equiv.)
+  university: Technische Universität Berlin
+  time: 2010 - 2015
+  details: "Software Defined Networking based Data-Center Services"
 - education:
-  degree: BSc in Applied Mathematics
-  university: Bristol University
-  time: 2007 - 2011
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  degree: MEng in Embedded Systems
+  university: Beuth Hochschule für Technik Berlin
+  time: 2008 - 2009
+  details: "Simulation and realization of an FPGA- based embedded remote controller for
+  a bionic hand"
+- education: 
+  degree: Dipl.-Ing. (FH) in Computer Engineering (Master equiv.)
+  university: Technische Fachhochschule Berlin
+  time: 2003 - 2008
+  details: "RFID for ticketing"
