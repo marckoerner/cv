@@ -1,4 +1,10 @@
+intro: "You can list your publications in this section. Lorem ipsum dolor
+  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 publications:
+  - paper:
+    title: The Art of Computer Programming
+    authors: Donald E. Knuth
+    conference: Addison-Wesley, 1968
   - paper:
     title: "SOFTmon - Traffic Monitoring for SDN"
     authors: Marc Hartung and Marc Koerner
@@ -50,7 +56,7 @@ publications:
   - paper:
     title: "An Approach for QoS Constraint Networks in Cloud Environments"
     authors: Marc Koerner, Alexander Stanik, and Andreas Kliem
-    conference: "In Fourth International Conference on Network of the Future (NoF’13), IEEE, pages 1–3, Pohang, Korea, Oct 2013"
+    conference: "In Proceedings of the Fourth International Conference on Network of the Future (NoF’13), IEEE, pages 1–4, Pohang, Korea, oct 2013"
   - paper:
     title: "HLA - A Hierarchical Layer Application for OpenFlow Management Abstraction"
     authors: Marc Koerner and Herbert Almus
@@ -59,11 +65,12 @@ publications:
     title: "Optimizing OpenFlow Load-Balancing with L2 Direct Server Return"
     authors: Marc Koerner and Odej Kao
     conference: "In Proceedings of the Fourth International Conference on Network of the Future (NoF’13), IEEE, pages 1–4, Pohang, Korea, oct 2013"
- - paper:
+  - paper:
     title: "The OFELIA TUB-Island an Europe-wide Connected OpenFlow Testbed"
     authors: Marc Koerner
     conference: "In Proceedings of the 38th IEEE Conference on Local Computer Networks (LCN), pages 452–455, Sydney, Australia, oct 2013. IEEE publishers"
- - paper:
+  - paper:
     title: "Multiple Service Load-Balancing with OpenFlow"
     authors: Marc Koerner and Odej Kao
     conference: "In Proceedings of the 13th International Conference on High Performance Switching and Routing (HPSR), IEEE, pages 210–214. IEEE publishers, 2012"
+
