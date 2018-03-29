@@ -1,23 +1,18 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "This section provides an overview of the projects I have participated in."
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: ASCETiC
+    link: "http://ascetic-project.eu/"
+    tagline: "Adapting Service lifeCycle towards EfficienT Clouds (ASCETiC) is focused on providing novel methods and tools to support software developers aiming to optimise energy efficiency and minimise the carbon footprint resulting from designing, developing, deploying, and running software in Clouds."
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    title: OFELIA
+    link: "http://fp7-ofelia.github.io/ocf/"
+    tagline: "OpenFlow in Europe: Linking Infrastructure and Applications: Aim of the OFELIA project is to provide a unique network infrastructure for developers and researchers to experiment with. Therefor OFELIA uses OpenFlow, which is an upcoming network technology for network visualization through standardized and secured interfaces. OpenFlow allows developers to control the network itself as part of the experiment. OFELIA will provide high performance networking equipment for experiments under real network conditions."
   - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    title: Forschungscampus Connected Technologies
+    link: "http://www.cit.tu-berlin.de/menue/research/completed_projects/forschungscampus/"
+    tagline: "The aim of the Forschungscampus Connected Technologies project is to establish an interdisciplinary, long term research cluster, where partners from academia and industry work together towards efficient technologies that integrate and connect devices and systems for smart homes and smart buildings."
   - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-  - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: BAER
+    link: "https://projekt.beuth-hochschule.de/baer/"
+    tagline: "Development of an innovative information system for the Berlin Zoo"
