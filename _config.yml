@@ -1,5 +1,5 @@
 # Site Settings
-title: CV
+title: Marc Körner
 #url: 'http://webjeda.com'
 #baseurl: '/online-cv' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
@@ -17,16 +17,13 @@ about: True # set to False or comment line if you want to remove the "How to use
 name: Marc Körner
 tagline: Postdoctoral Researcher
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'I am currently working as a postdoctoral DAAD scholar at the <a href="http://www.icsi.berkeley.edu/icsi/">ICSI</a>, the UC Berkeley <a href="https://netsys.cs.berkeley.edu/">Netsys Lab</a> group, and the EIT Digital <a href="https://www.eitdigital.eu/about-us/locations/silicon-valley-hub/">Silicon Vally hub</a>. I received a Dr.-Ing. degree (PhD equivalent) from the faculty of CS and EE at TU Berlin in 2015, while I was working for the Complex and Distributed IT Systems department. My research focus is in scope of network technologies and SDN/NFV based data center solutions. I have almost 6 years experiences in EU research projects as well as an industrial background.'
 
 #sidebar links
 email: koerner@ICSI.Berkeley.EDU
 #phone: 012 345 6789
 #website: blog.webjeda.com #do not add http://
-#linkedin: 
+linkedin: marc-körner-71a13593
 github: marckoerner
 #twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.
