@@ -2,10 +2,6 @@ intro: "You can list your publications in this section. Lorem ipsum dolor
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 publications:
   - paper:
-    title: The Art of Computer Programming
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-  - paper:
     title: "SOFTmon - Traffic Monitoring for SDN"
     authors: Marc Hartung and Marc Koerner
     conference: " Proceedings of the 12th International Conference on Future Networks and Communications (FNC 2017) / The 14th International Conference on Mobile Systems and Pervasive Computing (MobiSPC 2017) / Affiliated Workshops, July 24-26, 2017, Leuven, Belgium, pages 516-523, 2017"
