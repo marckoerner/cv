@@ -1,0 +1,16 @@
+intro: "You can list your publications in this section. Lorem ipsum dolor
+  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+publications:
+  - paper:
+    title: "Service-level agreement aggregation for quality of service-aware federated cloud networking"
+    authors: Alexander Stanik, Marc Koerner, and Odej Kao
+    conference: "IET Networks Journal, pages 1–6, 2015"
+  - paper:
+    title: "Design and Implementation of the OFELIA FP7 Facility: The European OpenFlow Testbed"
+    authors: Marc Sune, Leonardo Bergesio, Hagen Woesner, Tom Rothe, Andreas Koepsel, Didier Colle, Bart Puype, Dimitra Simeonidou, Reza Nejabati, Mayur Channegowda, Mario Kind, Thomas Dietz, Achim Autenrieth, Vasileios Kotronis, Elio Salvadori, Stefano Salsano, Marc Koerner, and Sachin Sharma
+    conference: "Computer Networks (COMNET), 61:132 – 150, 2014. Special issue on Future Internet Testbeds - Part I"
+  - paper:
+    title: "Metrics and Measurement Tools in OpenFlow and the OFELIA Testbed"
+    authors: Marc Koerner, Herbert Almus, Hagen Woesner, and Tobias Jungel
+    conference: "Lecture Notes in Computer Science (LNCS) 7586, pages 123–134, Heidelberg, 2013. Springer"
+
