@@ -1,0 +1,72 @@
+intro: "You can list your publications in this section. Lorem ipsum dolor
+  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+publications:
+  - paper:
+    title: "SOFTmon - Traffic Monitoring for SDN"
+    authors: Marc Hartung and Marc Koerner
+    conference: " Proceedings of the 12th International Conference on Future Networks and Communications (FNC 2017) / The 14th International Conference on Mobile Systems and Pervasive Computing (MobiSPC 2017) / Affiliated Workshops, July 24-26, 2017, Leuven, Belgium, pages 516-523, 2017"
+  - paper:
+    title: "MAC based dynamic VLAN tagging with openflow for WLAN access networks"
+    authors: Marc Koerner and Odej Kao
+    conference: "In The 11th International Conference on Future Networks and Communi- cations (FNC 2016) / The 13th International Conference on Mobile Systems and Pervasive Computing (MobiSPC 2016) / Affiliated Workshops, August 15-18, 2016, Montreal, Quebec, Canada, pages 497–501, 2016"
+  - paper:
+    title: "The ASCETiC Testbed - An Energy Efficient Cloud Computing Environment"
+    authors: Marc Koerner, Alexander Stanik, Odej Kao, Marcel Wallschaeger, and Soeren Becker
+    conference: "In Proceedings of the 11th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks and Communities (TRIDENTCOM), pages 1–10, Hangzhoe, People’s Republic of China, June 2016. Springer"
+  - paper:
+    title: "Towards Seamless Integration of Software-Defined Networking within Distributed File Systems"
+    authors: Marc Koerner and Odej Kao
+    conference: "In Proceedings of the International Conference on Cloud Computing Research and Innovation 2016 (ICCCRI), pages 1–4, Singapore, May 2016. IEEE"
+  - paper:
+    title: "Evaluation of a Cloud Federation based on Software Defined Networking"
+    authors: Marc Koerner, Constantin Gaul, and Odej Kao
+    conference: "In Proceedings of the 40th IEEE Conference on Local Computer Networks (LCN), pages 1–8, Clearwater Beach, FL, USA, October 2015. IEEE"
+  - paper:
+    title: "The Device Driver Engine - Cloud enabled Ubiquitous Device Integration"
+    authors: A. Kliem, M. Koerner, S. Weissenborn, and M. Byfield
+    conference: "In Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP), 2015 IEEE Tenth International Conference on, pages 1–7, April 2015"
+  - paper:
+    title: "Design and Implementation of a Cloud-Federation Agent for Software Defined Networking"
+    authors: Constantin Gaul, Marc Koerner, and Odej Kao
+    conference: "In Proceedings of 2015 IEEE International Conference on Cloud Engineering (IC2E 2015), pages 323–328, Tempe, AZ, USA, March 2015. IEEE"
+  - paper:
+    title: "Portable SDN Applications on the PaaS Layer"
+    authors: Thomas Renner, Alexander Stanik, Marc Koerner, and Odej Kao
+    conference: "In Utility and Cloud Computing (UCC), Proceedings of the 2014 IEEE/ACM 7th International Conference on, pages 497–498. IEEE Computer Society, December 2014"
+  - paper:
+    title: "Applying QoS in Software Defined Networks by using WS-Agreement"
+    authors: Marc Koerner, Alexander Stanik, and Odej Kao
+    conference: "In Cloud Computing Technology and Science (CloudCom), Proceedings of the 2014 IEEE 6th International Conference on, volume 2, pages 893–898. IEEE Computer Society, December 2014"
+  - paper:
+    title: "SLA-driven Federated Cloud Networking: Quality of Service for Cloud-based Software Defined Networks"
+    authors: Alexander Stanik, Marc Koerner, and Leonidas Lymberopoulos
+    conference: "Procedia Computer Science, Volume 34, pages 655–660. Elsevier, 2014"
+  - paper:
+    title: "Evaluating SDN based Rack-to-Rack Multi-path Switching for Data-Center Networks"
+    authors: Marc Koerner and Odej Kao
+    conference: "In Proceedings of the 9th International Conference on Future Networks and Communications (FNC 2014), Procedia Computer Science Volume 34, 2014, Pages 118-125"
+  - paper:
+    title: "Oftables: A Distributed Packet Filter"
+    authors: Marc Koerner and Odej Kao
+    conference: "In Proceedings of The 6th International Conference on Communication System and Networks (COMSNETS), pages 1–4, Bangalore, India, jan 2014"
+  - paper:
+    title: "An Approach for QoS Constraint Networks in Cloud Environments"
+    authors: Marc Koerner, Alexander Stanik, and Andreas Kliem
+    conference: "In Proceedings of the Fourth International Conference on Network of the Future (NoF’13), IEEE, pages 1–4, Pohang, Korea, oct 2013"
+  - paper:
+    title: "HLA - A Hierarchical Layer Application for OpenFlow Management Abstraction"
+    authors: Marc Koerner and Herbert Almus
+    conference: "In Proceedings of the Fourth International Conference on Network of the Future (NoF’13), IEEE, pages 1–4, Pohang, Korea, oct 2013"
+  - paper:
+    title: "Optimizing OpenFlow Load-Balancing with L2 Direct Server Return"
+    authors: Marc Koerner and Odej Kao
+    conference: "In Proceedings of the Fourth International Conference on Network of the Future (NoF’13), IEEE, pages 1–4, Pohang, Korea, oct 2013"
+  - paper:
+    title: "The OFELIA TUB-Island an Europe-wide Connected OpenFlow Testbed"
+    authors: Marc Koerner
+    conference: "In Proceedings of the 38th IEEE Conference on Local Computer Networks (LCN), pages 452–455, Sydney, Australia, oct 2013. IEEE publishers"
+  - paper:
+    title: "Multiple Service Load-Balancing with OpenFlow"
+    authors: Marc Koerner and Odej Kao
+    conference: "In Proceedings of the 13th International Conference on High Performance Switching and Routing (HPSR), IEEE, pages 210–214. IEEE publishers, 2012"
+
