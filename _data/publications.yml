@@ -1,5 +1,4 @@
-intro: "You can list your publications in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "This section lists some selected publications. Please find the <a href="https://scholar.google.com/citations?user=Kh9itSgAAAAJ&hl=en">complete list</a> on google scholar."
 publications:
   - paper:
     title: "Evaluation of a Cloud Federation based on Software Defined Networking"
