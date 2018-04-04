@@ -1,38 +1,31 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: Visiting Research Scientist
+  time: 2017 - Present
+  company: ICSI and UC Berkeley and EIT Digital, Berkeley and San Francisco
+  details: "DAAD postdoctoral scholarship (FITweltweit): <br />
+- Adminstration and maintenance of the EIT Digital Test <br />
+- Scientific publications <br />
+- Organisation of the SDNCC Workshops <br />
+- OCI Edge Computing prototype development and testing"
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
-- experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Research Associate
+  time: 2010 - 2016
+  company: TU Berlin, Berlin
+  details: "- Project work on management and operatinal level: EU Projects ASCETiC, OFELIA and BMBF Project Forschungscampus  <br /> - EU Project OFELIA  <br />
+- Installation, maintenance and administration of the ASCETiC and OFELIA testbed  <br />
+- Project cooperation with T-Systems: LTE  <br />
+- Collaboration on several EU project proposals  <br />
+- Scientific publications and reviews  <br />
+- Teaching: Distributed systems (project), Operation of
+complex IT systems (exercise course)  <br />
+- Supervision of Bachelor-, Diploma- and Master-Thesis"
 - experience:
   role: Consultant and Software Engineer
   time: 2010
   company: IT Service Omikron GmbH, Berlin
   details: "- Development of a mobile devices optimized visualization environment for the Berlin public transfer internal statistic data visualization <br />
 - Implementation of an advanced document administration application based on OpenCMS <br />
-- Review and assessment of a system specification for the Berlin Police department document management (PO- LIKS)"
+- Review and assessment of a system specification for the Berlin Police department document management system(POLIKS)"
 - experience:
   role: Research Associate
   time: 2009 - 2010
