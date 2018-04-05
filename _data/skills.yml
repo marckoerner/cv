@@ -6,16 +6,16 @@
   level: 95%
 - skill:
   name: Python
-  level: 65%
+  level: 70%
+- skill:
+  name: Assembler
+  level: 70%
 - skill:
   name: Shell Scripts
   level: 65%
 - skill:
   name: Javascript & jQuery
-  level: 75%
+  level: 65%
 - skill:
   name: HTML5 & CSS
-  level: 60%
-- skill:
-  name: Assembler
-  level: 75%
+  level: 65%
