@@ -1,4 +1,4 @@
-intro: 'This section lists some selected publications. Please find the <a href="https://scholar.google.com/citations?user=Kh9itSgAAAAJ&hl=en">complete list</a> on google scholar.'
+intro: 'This section lists some selected publications. Please find the <a href="https://scholar.google.com/citations?user=Kh9itSgAAAAJ&hl=en"><b>complete list</b></a> on google scholar.'
 publications:
   - paper:
     title: "Evaluation of a Cloud Federation based on Software Defined Networking"
@@ -8,10 +8,6 @@ publications:
     title: "SLA-driven Federated Cloud Networking: Quality of Service for Cloud-based Software Defined Networks"
     authors: Alexander Stanik, Marc Koerner, and Leonidas Lymberopoulos
     conference: "Procedia Computer Science, Volume 34, pages 655–660. Elsevier, 2014"
-  - paper:
-    title: "Evaluating SDN based Rack-to-Rack Multi-path Switching for Data-Center Networks"
-    authors: Marc Koerner and Odej Kao
-    conference: "In Proceedings of the 9th International Conference on Future Networks and Communications (FNC 2014), Procedia Computer Science Volume 34, 2014, Pages 118-125"
   - paper:
     title: "The OFELIA TUB-Island an Europe-wide Connected OpenFlow Testbed"
     authors: Marc Koerner
