@@ -1,13 +1,13 @@
 intro: 'This section lists some selected publications. Please find the <a href="https://scholar.google.com/citations?user=Kh9itSgAAAAJ&hl=en"><b>complete list</b></a> on google scholar.'
 publications:
   - paper:
+    title: "Open Carrier Interface: An Open Source Edge Computing Framework"
+    authors: Marc Koerner, Torsten M. Runge, Aurojit Panda, Sylvia Ratnasamy, and Scott Shenker
+    conference: "In Proceedings of ACM Sigcomm conference, Budapest, Hungary,August 2018 (SIGCOMM 2018 - NEAT workshop), 6 pages"
+  - paper:
     title: "Evaluation of a Cloud Federation based on Software Defined Networking"
     authors: Marc Koerner, Constantin Gaul, and Odej Kao
     conference: "In Proceedings of the 40th IEEE Conference on Local Computer Networks (LCN), pages 1–8, Clearwater Beach, FL, USA, October 2015. IEEE"
-  - paper:
-    title: "SLA-driven Federated Cloud Networking: Quality of Service for Cloud-based Software Defined Networks"
-    authors: Alexander Stanik, Marc Koerner, and Leonidas Lymberopoulos
-    conference: "Procedia Computer Science, Volume 34, pages 655–660. Elsevier, 2014"
   - paper:
     title: "The OFELIA TUB-Island an Europe-wide Connected OpenFlow Testbed"
     authors: Marc Koerner
