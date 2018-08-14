@@ -2,8 +2,8 @@ intro: 'This section lists some selected publications. Please find the <a href="
 publications:
   - paper:
     title: "Open Carrier Interface: An Open Source Edge Computing Framework"
-    authors: Marc Koerner, Torsten M. Runge, Aurojit Panda, Sylvia Ratnasamy, and Scott Shenker
-    conference: "In Proceedings of ACM Sigcomm conference, Budapest, Hungary, August 2018 (SIGCOMM 2018 - NEAT workshop), 6 pages, to appear"
+    authors: Marc Körner, Torsten M. Runge, Aurojit Panda, Sylvia Ratnasamy, and Scott Shenker
+    conference: "In Proceedings of the 2018 Workshop on Networking for Emerging Applications and Technologies (NEAT'18 - SIGCOMM), Budapest, Hungary, August 2018, pages 27-32, ACM"
   - paper:
     title: "Evaluation of a Cloud Federation based on Software Defined Networking"
     authors: Marc Koerner, Constantin Gaul, and Odej Kao
