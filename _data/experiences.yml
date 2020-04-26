@@ -1,12 +1,20 @@
 - experience:
+  role: MTS - Lead Engineer Network Services
+  time: MAy 2019 - Present
+  company: Join Digital, San Francisco / San Jose
+  details: "- Enabled new service release for a customer VPN by designing and deploying a WireGuard based VPN solution in the Equinix Silicon Valley 1 data center <br />
+- Achieved around 60% deployment cost reduction by delivering a hardware / software architecture and integration proposal by using open source components. This work includes implementation of Proof of Concept (PoC) prototypes and the production-ready software stack. <br />
+- Developed 3rd party app API for the Join OpenFlow controller by implementing a RabbitMQ connector.<br />
+- Developed a test suite for conformance tests for the Join OpenFlow controller."
+- experience:
   role: Visiting Researcher
-  time: 2019 - Present
+  time: Jan 2019 - April 2019
   company: FU Berlin, Berlin
   details: "- Scientific publications and reviews <br />
 - DAAD reporting"
 - experience:
   role: Postdoctoral Researcher
-  time: 2017 - 2018
+  time: Jan 2017 - Dec 2018
   company: UC Berkeley, ICSI, and EIT Digital, Berkeley and San Francisco
   details: "DAAD postdoctoral fellowship (FITweltweit): <br />
 - Open Carrier Interface (OCI) Edge Computing prototype development and testing <br />
@@ -15,7 +23,7 @@
 - Adminstration and maintenance of the EIT Digital Testbed"
 - experience:
   role: Researcher & Sr. Researcher
-  time: 2010 - 2016
+  time: Oct 2010 - Dec 2016
   company: TU Berlin, Berlin
   details: "- Project work on management and operational level: EU Projects ASCETiC, OFELIA and BMBF Project Forschungscampus  <br />
 - Installation, maintenance and administration of the ASCETiC and OFELIA testbed  <br />
@@ -38,6 +46,3 @@
   details: "- Daimler Benz testbed development  <br />
  - Integration of a CAN based central control unit (ZBE) and Navi prototype  <br />
 -  Teaching: Augmented Reality Android Student-Project"
-
-
-
