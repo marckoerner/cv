@@ -1,6 +1,11 @@
 - experience:
+  role: Software Engineer
+  time: Oct 2020 - Present
+  company: Department of Energy, ESnet / LBNL, Berkeley
+  details: "Reducing the router deployment time by developing several network automation services for ESnet 6 by implementing multiple Cisco NSO services, actions, and automated tests."
+- experience:
   role: MTS - Lead Engineer Network Services
-  time: May 2019 - Present
+  time: May 2019 - Sep 2020
   company: Join Digital, San Francisco / San Jose
   details: "- Enabled new service release for a customer VPN by designing and deploying a WireGuard based VPN solution in the Equinix Silicon Valley 1 data center <br />
 - Achieved around 60% deployment cost reduction by delivering a hardware / software architecture and integration proposal by using open source components. This work includes implementation of Proof of Concept (PoC) prototypes and the production-ready software stack. <br />
